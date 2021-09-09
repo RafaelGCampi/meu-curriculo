@@ -1,15 +1,24 @@
 {
-  "name": "meu-curriculo",
+  "name": "reactniceresume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "anix": "^1.3.6",
+    "jquery": "^3.6.0",
+    "node-sass": "^6.0.1",
+    "particles-bg": "^2.5.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-ga": "^3.3.0",
+    "react-reveal": "^1.2.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "react-zmage": "^0.8.5-beta.36",
+    "sass-loader": "^12.1.0",
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,17 +44,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rafaelgc2000/meu-curriculo.git"
-  },
-  "author": "Rafael G. Campi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rafaelgc2000/meu-curriculo/issues"
-  },
-  "homepage": "https://github.com/Rafaelgc2000/meu-curriculo#readme"
+  "devDependencies": {
+    "chokidar": "^3.5.1"
+  }
 }
