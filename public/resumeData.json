@@ -1,14 +1,14 @@
 {
   "main": {
     "name":"Rafael",
-    "description":"Programador Fullstack em busca de cada vez mais conhecimento",
+    "description":"Programador Fullstack",
     "image":"eu.jpg",
     "bio":"Descrever aqui sobre mim.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "rafael.g.campi@gmail.com",
     "phone": "55 (41) 99744-3172",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/RafaelGCampi",
+    "project":"https://github.com/RafaelGCampi/meu-curriculo",
     "address":{
       "street":"",
       "city":"Curitiba",
